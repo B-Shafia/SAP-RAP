@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for read only travel'
+define service ZUI_TRAVEL_SHA {
+  expose zc_travel_sha;
+}
