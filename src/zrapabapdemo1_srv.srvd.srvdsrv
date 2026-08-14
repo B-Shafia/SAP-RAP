@@ -1,4 +1,0 @@
-@EndUserText.label: 'Service definition for demo1'
-define service Zrapabapdemo1_srv {
-  expose zrapabap_demo1;
-}
